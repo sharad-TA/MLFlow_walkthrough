@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/1/aec063f0b9b24096b9b358df14f23fa2/artifacts
+end_time: 1653300789331
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: aec063f0b9b24096b9b358df14f23fa2
+run_uuid: aec063f0b9b24096b9b358df14f23fa2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1653300784511
+status: 3
+tags: []
+user_id: sharad
